@@ -1,0 +1,54 @@
+/*
+Steps 1: Understand the problem statement
+Steps 2: Write the algorythem
+Steps 3: Decide the program language
+Steps 4: Wirte the Program
+Steps 5: Test the Program
+*/
+
+
+
+////////////////////////////////////////////////////////////////////////
+//
+//  Step 1: Understand the problem statement
+//          User is going to enter any 2 Integers 
+//          and we have to preform addition
+//
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//  Step 2: Write the algorythem
+            // Start
+            //     Accept first  no as No1
+            //     Accept second  no as No2
+            //     Create a variable as ans to strore the result
+            //     Perform the addition and store into ans
+            //     Diplay the result from Ans
+            // End
+
+//
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//
+//  Step 3: Decide the Programming Language
+//          We Select C Programming
+//
+////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////////////////////////////////
+//
+//  Step 4: write a Program
+//          
+//
+////////////////////////////////////////////////////////////////////////
+
+
+
+#include <stdio.h>
+
+int main(){
+    int i=10,j=11,k=0;
+    k=i+j; ///// Business logic
+    printf("%d\n", k);
+    return 0;
+}
